@@ -1,0 +1,22 @@
+{
+  "name": "talksssys-tea",
+  "version": "1.0.0",
+  "description": "demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YORP1K/talksssys-tea.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YORP1K/talksssys-tea/issues"
+  },
+  "homepage": "https://github.com/YORP1K/talksssys-tea#readme"
+}
